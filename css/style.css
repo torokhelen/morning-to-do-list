@@ -74,8 +74,8 @@ form button:hover {
 
 .complete-btn,
 .trash-btn {
-    background: #f58465;
-    color: white;
+    background: white;
+    color: #f58465;
     border: none;
     padding: 0.8rem;
     cursor: pointer;
@@ -83,7 +83,8 @@ form button:hover {
 }
 
 .complete-btn {
-    background: #41cc64;
+    background: #3fad5a;
+    color: white;
 }
 
 .fa-trash,
